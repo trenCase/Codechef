@@ -1,2 +1,2 @@
 # Codechef
-Contains solutions implemented for COde chef Long challenges .. 
+Contains solutions implemented for Code chef Questions .... 
